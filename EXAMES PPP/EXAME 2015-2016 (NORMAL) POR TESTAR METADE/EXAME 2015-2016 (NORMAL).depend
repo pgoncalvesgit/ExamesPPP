@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527740891 source:c:\users\paulo\desktop\exames\exame 2015-2016 (normal)\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1527810787 source:c:\users\paulo\desktop\exames\exame 2015-2016 (normal) por testar metade\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

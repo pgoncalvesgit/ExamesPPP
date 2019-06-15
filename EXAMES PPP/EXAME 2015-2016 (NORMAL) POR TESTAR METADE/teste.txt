@@ -1,0 +1,8 @@
+que receba como argumento o
+numero de uma pessoa e 
+devolva uma estrutura 
+contendo a seguinte informacao
+para essa pessoa: numero
+identificador, nome,
+menor numero de quilometros
+em uma atividade

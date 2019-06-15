@@ -1,0 +1,2 @@
+Aqui está uma string que eu criei
+ e quero testar oq mete no ficheiro

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527732762 source:c:\users\paulo\desktop\exames\exame 2013-2014 (recurso)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
